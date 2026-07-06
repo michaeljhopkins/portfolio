@@ -16,4 +16,4 @@
 
 ### WIP - 4'x3' topographical map of colorado
 
-[![](./topo.JPG)
+[![](./topo.jpg)
