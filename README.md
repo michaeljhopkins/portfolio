@@ -10,11 +10,11 @@
 
 [![](./audioVisualizer.gif)](https://www.youtube.com/watch?v=qYI4U2IXc-Q)
 
-## High Voltage Plasma Speaker - no "speakers", sound comes from the electrical arc! - picture links to video
+## High Voltage Plasma Speaker - no "speakers", sound comes from the electrical arc! - https://photos.app.goo.gl/97pdRnebkaqZ4cDeA
 
 [![](./plasmaSpeaker.jpg)]([https://photos.google.com/photo/AF1QipNj7NOG4T1coZRmwt5QTAx5hi1Lh0P05jlmOL8b]))
 
-## Fusion360 - Denhac Woodshop Floor Plan - picture links to fusion file
+## Fusion360 - Denhac Woodshop Floor Plan - View the file here https://a360.co/4wr1CoW
 
 [![](./floorplan.png)]([https://a360.co/4wr1CoW]))
 
