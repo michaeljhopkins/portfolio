@@ -14,7 +14,7 @@
 
 [![](./plasmaSpeaker.jpg)]([https://photos.google.com/photo/AF1QipNj7NOG4T1coZRmwt5QTAx5hi1Lh0P05jlmOL8b]))
 
-## Fusion360 - Denhac Woodshop Floor Plan
+## Fusion360 - Denhac Woodshop Floor Plan - picture links to fusion file
 
 [![](./floorplan.png)]([https://a360.co/4wr1CoW]))
 
