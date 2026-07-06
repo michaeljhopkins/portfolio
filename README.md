@@ -2,6 +2,10 @@
 
 [![](./teslaCoil.gif)](https://www.youtube.com/shorts/j652NAYSeRc)
 
+## "4d" Hypercube - Milled from solid aluminum on a Shapeoko CNC
+
+[](./hypercube.jpg)
+
 ## Old TV turned into audio visualizer (gif opens to youtube)
 
 [![](./audioVisualizer.gif)](https://www.youtube.com/watch?v=qYI4U2IXc-Q)
@@ -12,8 +16,8 @@
 
 ### WIP - Electric violin milled from solid acrylic
 
-[![](./violin.JPG)
+[](./violin.JPG)
 
 ### WIP - 4'x3' topographical map of colorado
 
-[![](./topo.jpg)
+[](./topo.jpg)
