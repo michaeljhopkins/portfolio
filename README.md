@@ -12,7 +12,7 @@
 
 ## High Voltage Plasma Speaker - no "speakers", sound comes from the electrical arc! - picture links to video
 
-[![](./plasmaSpeaker.jpg)]([https://www.youtube.com/watch?v=qYI4U2IXc-Q](https://photos.google.com/share/AF1QipPjX8FsuyYqD_p5lG7hksVuhk-TGfHcWfpChAs6TeDRx05fn8vDauVEYFCxjwntUg/photo/AF1QipOgBj9XnLTu0K6P0ruWDKHcB442_XjqYDB3Xi5M?key=VVJUVVY5QnRiMUI1NTkxNXVKQlo2ZE5vaFdjU29B))
+[![](./plasmaSpeaker.jpg)]([https://photos.google.com/photo/AF1QipNj7NOG4T1coZRmwt5QTAx5hi1Lh0P05jlmOL8b]))
 
 ### WIP - Electric violin milled from solid acrylic
 
