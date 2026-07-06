@@ -16,7 +16,7 @@
 
 ## Fusion360 - Denhac Woodshop Floor Plan
 
-[![](./floorplan.jpg)]([https://a360.co/4wr1CoW]))
+[![](./floorplan.png)]([https://a360.co/4wr1CoW]))
 
 ### WIP - Electric violin milled from solid acrylic
 
